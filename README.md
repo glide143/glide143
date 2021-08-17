@@ -11,7 +11,7 @@ I'm Melchizedek Aguinaldo😉, Application System Consultant 👨🏻‍💻 fro
   &emsp;
     <a href="mailto: melchizedek30@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   &emsp;
-    <a href="www.linkedin.com/in/melchizedek-aguinaldo-14a771130"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/melchizedek-aguinaldo-14a771130/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   &emsp;
     <a href="https://stackoverflow.com/users/5670909/melchizedek"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
   &emsp;
