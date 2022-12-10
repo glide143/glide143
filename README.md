@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-I'm Mel😉, Software Engineer 👨🏻‍💻 from Philippines <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ph.png">. I'm an open-source profession and mostly develop in JAVA
+I'm Mel😉, Software Engineer 👨🏻‍💻 from Philippines <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ph.png">. I'm an open-source supporter and I mostly develop in JAVA
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFF6B&lines=Software+Engineer;5%2B+Years+Work+Experience+;Loves+Open+Source)](https://git.io/typing-svg)
 
