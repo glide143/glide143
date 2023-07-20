@@ -15,10 +15,6 @@ I'm Mel😉, Software Engineer 👨🏻‍💻 from Philippines <img src="https:
   &emsp;
 </p>
 
-### Current Status Quo:
-
-- 🔭 I’m currently working on a <strong>Multi International IT Company</strong>
-- 🤔 My interests are with <strong>AI and Open Source</strong>
 
 
 ### Languages and Tools I work upon: 🛠
